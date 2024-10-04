@@ -5,3 +5,7 @@ See the [Voting Locations](https://github.com/LACMTA/lac-voting-locations/blob/m
 Files to use:
 - [la-county-rrcc-vbm.json](https://lacmta.github.io/lac-voting-locations/la-county-rrcc-vbm.json)
 - la-county-rrcc-vc.json (coming soon)
+
+Data files sourced from LA County Registrar-Recorder/County Clerk:
+- [Vote By Mail Boxes](https://locator.lavote.gov/locations/vbm?culture=en)
+- Voting Centers (coming soon)
